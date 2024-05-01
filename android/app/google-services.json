@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "324672388530",
+    "firebase_url": "https://human-disease-98d27-default-rtdb.firebaseio.com",
+    "project_id": "human-disease-98d27",
+    "storage_bucket": "human-disease-98d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324672388530:android:0e36bc83e5408530a0b8ab",
+        "android_client_info": {
+          "package_name": "com.example.human_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOaIPTGjQS_jTKyua_EK3tYTi6dwkvAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
